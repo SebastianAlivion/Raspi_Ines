@@ -32,7 +32,7 @@ make install
 echo -e "\e[95mMPRLS"
 pip3 install adafruit-circuitpython-mprls
 
-echo -e "\e[96mSGP40"
+echo -e "\e[96mSGP30"
 pip3 install adafruit-circuitpython-sgp30
 
 echo -e "\e[95mPID"
