@@ -43,11 +43,11 @@ pip3 install pysimplegui
 
 echo -e "\e[95mPrograms"
 git clone https://github.com/SebastianAlivion/Raspi_Ines
-chown -R pi:pi RaspberryPiSetup
-cd RaspberryPiSetup
+chown -R pi:pi Raspi_Ines
+cd Raspi_Ines
 mv Programs /home/pi
 cd ..
-rm -r RaspberryPiSetup
+rm -r Raspi_Ines
 
 echo -e "\e[93mDo you want to reboot?"
 read pie
