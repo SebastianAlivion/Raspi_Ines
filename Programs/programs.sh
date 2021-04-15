@@ -6,7 +6,7 @@ mv data data_old
 mv Programs Programs_old
 
 
-git clone https://github.com/SebastianAlivion/RaspberryPiSetup
+git clone https://github.com/SebastianAlivion/Raspi_Ines
 chown -R pi:pi RaspberryPiSetup
 cd RaspberryPiSetup
 mv Programs /home/pi
